@@ -1,4 +1,8 @@
-### Hi there 👋
+## Travis Ennis - @travisennis 👋
+
+I'm a software engineer by profession. I currently spend my personal time exploring generative art and creative coding using javascript and canvas.
+
+Personal site: [travisennis.com](https://travisennis.com) Twitter: [@travisennis](https://twitter.com/travisennis)
 
 <!--
 **travisennis/travisennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
