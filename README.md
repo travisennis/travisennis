@@ -1,6 +1,6 @@
 ## Travis Ennis - @travisennis 👋
 
-I'm a software engineer. I currently spend my personal time exploring generative art and creative coding using javascript and canvas.
+I'm a software engineer. I'm also interested in books, writing, and photography.
 
 Personal site: [travisennis.com](https://travisennis.com) Twitter: [@travisennis](https://twitter.com/travisennis)
 
