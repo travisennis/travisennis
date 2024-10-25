@@ -1,6 +1,6 @@
-## Travis Ennis - @travisennis 👋
+# Travis Ennis - @travisennis 👋
 
-I'm a software engineer with focuses on backend development, monitoring, and machine learning. I'm also interested in books, art, and photography.
+I'm a software engineer with a strong interest in AI and machine learning.
 
 Personal site: [travisennis.com](https://travisennis.com)
 
