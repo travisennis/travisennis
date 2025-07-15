@@ -1,6 +1,6 @@
 # Travis Ennis - @travisennis 👋
 
-I'm a software engineer with a strong interest in AI and machine learning.
+I'm a software engineer with a strong interest in AI. Currently working on [acai](https://github.com/travisennis/acai-ts).
 
 Personal site: [travisennis.com](https://travisennis.com)
 
